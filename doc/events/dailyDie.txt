@@ -1,0 +1,133 @@
+[name]'s arm was bitten by a zombie.
+[name]'s neck was bitten by a zombie.
+[name]'s leg was bitten by a zombie.
+[name]'s torso was bitten by a zombie.
+[name]'s face was bitten by a zombie.
+[name]'s hand was bitten by a zombie.
+[name]'s chest was bitten by a zombie.
+[name]'s thigh was bitten by a zombie.
+[name]'s foot was bitten by a zombie.
+[name]'s head was bitten by a zombie.
+[name]'s back was bitten by a zombie.
+[name]'s shoulder was bitten by a zombie.
+[name]'s throat was bitten by a zombie.
+[name]'s stomach was bitten by a zombie.
+[name]'s arm was bitten by a zombie and died of blood loss.
+[name]'s neck was bitten by a zombie and died of blood loss.
+[name]'s leg was bitten by a zombie and died of blood loss.
+[name]'s torso was bitten by a zombie and died of blood loss.
+[name]'s face was bitten by a zombie and died of blood loss.
+[name]'s hand was bitten by a zombie and died of blood loss.
+[name]'s chest was bitten by a zombie and died of blood loss.
+[name]'s thigh was bitten by a zombie and died of blood loss.
+[name]'s foot was bitten by a zombie and died of blood loss.
+[name]'s head was bitten by a zombie and died of blood loss.
+[name]'s back was bitten by a zombie and died of blood loss.
+[name]'s shoulder was bitten by a zombie and died of blood loss.
+[name]'s throat was bitten by a zombie and died of blood loss.
+[name]'s stomach was bitten by a zombie and died of blood loss.
+[name]'s arm was bitten by a zombie and died by the infection.
+[name]'s neck was bitten by a zombie and died by the infection.
+[name]'s leg was bitten by a zombie and died by the infection.
+[name]'s torso was bitten by a zombie and died by the infection.
+[name]'s face was bitten by a zombie and died by the infection.
+[name]'s hand was bitten by a zombie and died by the infection.
+[name]'s chest was bitten by a zombie and died by the infection.
+[name]'s thigh was bitten by a zombie and died by the infection.
+[name]'s foot was bitten by a zombie and died by the infection.
+[name]'s head was bitten by a zombie and died by the infection.
+[name]'s back was bitten by a zombie and died by the infection.
+[name]'s shoulder was bitten by a zombie and died by the infection.
+[name]'s throat was bitten by a zombie and died by the infection.
+[name]'s stomach was bitten by a zombie and died by the infection.
+[name]'s arm was bitten by a zombie and was put out of pStart[his-her]pEnd missery.
+[name]'s neck was bitten by a zombie and was put out of pStart[his-her]pEnd missery.
+[name]'s leg was bitten by a zombie and was put out of pStart[his-her]pEnd missery.
+[name]'s torso was bitten by a zombie and was put out of pStart[his-her]pEnd missery.
+[name]'s face was bitten by a zombie and was put out of pStart[his-her]pEnd missery.
+[name]'s hand was bitten by a zombie and was put out of pStart[his-her]pEnd missery.
+[name]'s chest was bitten by a zombie and was put out of pStart[his-her]pEnd missery.
+[name]'s thigh was bitten by a zombie and was put out of pStart[his-her]pEnd missery.
+[name]'s foot was bitten by a zombie and was put out of pStart[his-her]pEnd missery.
+[name]'s head was bitten by a zombie and was put out of pStart[his-her]pEnd missery.
+[name]'s back was bitten by a zombie and was put out of pStart[his-her]pEnd missery.
+[name]'s shoulder was bitten by a zombie and was put out of pStart[his-her]pEnd missery.
+[name]'s throat was bitten by a zombie and was put out of pStart[his-her]pEnd missery.
+[name]'s stomach was bitten by a zombie and was put out of pStart[his-her]pEnd missery.
+[name]'s arm was bitten by a zombie and put pStart[himself-herself]pEnd out of pStart[his-her]pEnd missery.
+[name]'s neck was bitten by a zombie and put pStart[himself-herself]pEnd out of pStart[his-her]pEnd missery.
+[name]'s leg was bitten by a zombie and put pStart[himself-herself]pEnd out of pStart[his-her]pEnd missery.
+[name]'s torso was bitten by a zombie and put pStart[himself-herself]pEnd out of pStart[his-her]pEnd missery.
+[name]'s face was bitten by a zombie and put pStart[himself-herself]pEnd out of pStart[his-her]pEnd missery.
+[name]'s hand was bitten by a zombie and put pStart[himself-herself]pEnd out of pStart[his-her]pEnd missery.
+[name]'s chest was bitten by a zombie and put pStart[himself-herself]pEnd out of pStart[his-her]pEnd missery.
+[name]'s thigh was bitten by a zombie and put pStart[himself-herself]pEnd out of pStart[his-her]pEnd missery.
+[name]'s foot was bitten by a zombie and put pStart[himself-herself]pEnd out of pStart[his-her]pEnd missery.
+[name]'s head was bitten by a zombie and put pStart[himself-herself]pEnd out of pStart[his-her]pEnd missery.
+[name]'s back was bitten by a zombie and put pStart[himself-herself]pEnd out of pStart[his-her]pEnd missery.
+[name]'s shoulder was bitten by a zombie and put pStart[himself-herself]pEnd out of pStart[his-her]pEnd missery.
+[name]'s throat was bitten by a zombie and put pStart[himself-herself]pEnd out of pStart[his-her]pEnd missery.
+[name]'s stomach was bitten by a zombie and put pStart[himself-herself]pEnd out of pStart[his-her]pEnd missery.
+Zombies snuck up on [name] while pStart[he-she]pEnd was releaving pStart[himself-herself]pEnd.
+Zombies caught up to [name] after pStart[he-she]pEnd tripped.
+[name] was pinned by debris and devoured by zombies.
+[name] accidentally fell in the trash compactor.
+[name] pissed off the wrong raiders.
+One of [name]'s cuts got infected and pStart[he-she]pEnd turned.
+[name] got lost and died in the wild.
+[name] was mistaken for a zombie and accidentally shot.
+[name] was mistaken for a zombie and accidentally stabbed.
+[name] could not handle the circumstances and committed suicide.
+[name] died of dehydration.
+[name] died of starvation.
+[name] died of hypothermia.
+[name] died of heat stroke.
+[name] died in pStart[his-her]pEnd sleep.
+[name] was killed by raiders while looking for resources.
+[name] never returned to camp.
+[name] got stuck in a revolving door, and was outlasted by the zombies.
+[name] was surrounded by zombies and became a meal for many.
+[name] fell asleep somewhere unsafe and was woken up by pStart[his-her]pEnd tearing flesh.
+[name] died of dysentery.
+[name] died of some unknown ailment.
+[name] heroically defended an ally from zombies and made the ultimate sacrifice.
+[name] was attacked by wolves and killed.
+[name] was attacked by feral dogs and killed.
+[name] was attacked by a bear and killed.
+[name] ate a mysterious plant and tried to hug a zombie while hallucinating.
+[name] took the wrong medicine and collapsed.
+[name] became trapped in a car by zombies and was unable to get out.
+[name] incorrectly assumed a zombie was dead and was bitten.
+[name] tried to talk to raiders and was shot.
+[name] fell out of a tree and broke pStart[his-her]pEnd neck.
+[name] accidentally touched live wires and was electrocuted.
+While exploring a run-down building, [name] accidentally fell through the floor and was fataly impaled.
+[name] got into a fist fight with a raider and lost.
+[name] was killed in a wildfire.
+[name] was killed in a housefire.
+[name] drowned in a river.
+[name] accidentally set off explosives and didn't live to tell the tale.
+[name] was shot multiple times by raiders and died of blood loss.
+[name] was shot multiple times by raiders and was left to the zombies.
+[name] was beaten to death by raiders.
+[name] was killed in a car accident.
+[name] was decapitated by raiders.
+[name] was bisected by raiders.
+[name] was shot in the leg by raiders and left to the walkers.
+[name] was shot by raiders and died of blood loss.
+[name] was stabbed in the throat by raiders.
+[name] was stabbed in the head by raiders.
+[name] was stabbed in the heart by raiders.
+[name] was shot in the head by raiders.
+[name] was burned alive by arsonists.
+[name] was knocked unconcious and used as fodder for raiders.
+[name] was strangled to death by raiders.
+[name] was curb stomped by raiders.
+[name] had pStart[his-her]pEnd throat slit by raiders.
+[name] fell down an elevator shaft and died.
+[name] was disemboweled by raiders.
+[name] was captured by raiders and tortured to death.
+[name] was shot by a tainted arrow and died of the infection.
+[name] was stabbed by a tainted weapon and died of the infection.
+[name] was hanged for treason.
+[name] was suffocated by raiders.
